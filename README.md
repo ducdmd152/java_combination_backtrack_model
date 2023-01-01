@@ -1,4 +1,4 @@
-- **Composer**: Duc Dao
+- **Redactor**: Duc Dao
 - **Transform based on the material from Mr.SuTV.**
 
 <aside>
