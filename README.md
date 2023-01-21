@@ -1,4 +1,4 @@
-- **Redactor**: Duc Dao
+- **Redactor**: [Duc Dao](https://beacons.ai/ducdmd152)
 - **Transform based on the material from Mr.SuTV.**
 
 <aside>
